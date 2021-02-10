@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+---
+]]></content>
+<tabTrigger>mdhl</tabTrigger>
+<description>Inserts a horizontal line seperator(For .md files)</description>
+</snippet>

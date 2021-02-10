@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+[${1:Title}](${2:Link})
+]]></content>
+<tabTrigger>mdlnkt</tabTrigger>
+<description>Creates a link with title(For .md files)</description>
+</snippet>

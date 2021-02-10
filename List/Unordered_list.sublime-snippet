@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
++ ${1:item1}
++ ${2:item2}
++ ${3:item3}
+]]></content>
+<tabTrigger>mdul</tabTrigger>
+<description>Creates a unordered list(For .md files)</description>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+**${1:BOLD text here}**
+]]></content>
+<tabTrigger>mdb</tabTrigger>
+<description>Creates a bold text(For .md files)</description>
+</snippet>

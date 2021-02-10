@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+| ${1:1,1}        |
+| ------------- |
+|  ${4:2,1}      |
+| ${7:3,1}      |
+]]></content>
+<tabTrigger>mdt31</tabTrigger>
+<description>Creates a 3X1 table(For .md files)</description>
+</snippet>

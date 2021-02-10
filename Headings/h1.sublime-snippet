@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+# ${1:text here}
+]]></content>
+
+<tabTrigger>mdh1</tabTrigger>
+
+    <description>Creates a heading 1(For .md files)</description>
+</snippet>

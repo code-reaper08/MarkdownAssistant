@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+_${1:italic text}_
+]]></content>
+<tabTrigger>mdit</tabTrigger>
+<description>Creates a italic text(For .md files)</description>
+</snippet>

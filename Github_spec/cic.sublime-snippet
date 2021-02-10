@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+- [x] ${1:Checked item}
+]]></content>
+<tabTrigger>mdcic</tabTrigger>
+<description>Creates a Checked item(GITHUB specific)(For .md files)</description>
+</snippet>

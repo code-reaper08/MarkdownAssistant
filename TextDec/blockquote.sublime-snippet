@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+> ${1:Text here}
+]]></content>
+<tabTrigger>mdbq</tabTrigger>
+<description>Creates a blockquote(For .md files)</description>
+</snippet>

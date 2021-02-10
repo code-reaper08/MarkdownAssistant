@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@${1:Username}
+]]></content>
+<tabTrigger>mdmention</tabTrigger>
+<description>Creates a mention(GITHUB Specific)(For .md files)</description>
+</snippet>

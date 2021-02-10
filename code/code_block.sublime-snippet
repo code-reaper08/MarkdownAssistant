@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+```${1:Language}
+$0
+```
+]]></content>
+<tabTrigger>mdcb</tabTrigger>
+<description>Creates a code block(For .md files)</description>
+</snippet>

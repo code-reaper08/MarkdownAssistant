@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+~~${1:Text here}~~
+]]></content>
+<tabTrigger>mdstrike</tabTrigger>
+<description>Creates a strikethrough text(For .md files)</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+| ${1:1,1}      |
+| ------------- |
+| ${2:2,1}      |
+]]></content>
+<tabTrigger>mdt21</tabTrigger>
+<description>Creates a 2X1 table(For .md files)</description>
+</snippet>
