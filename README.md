@@ -11,7 +11,7 @@
 ## Installation:
 ### Package Control ![recommended](https://img.shields.io/badge/method-recommended-blue "Use this")
 
-The easiest way to install the C++ Snippets is by using [Package Control](https://packagecontrol.io/). Installing it [is documented here](https://packagecontrol.io/installation).
+The easiest way to install the MarkdownAssistant is by using [Package Control](https://packagecontrol.io/). Installing it [is documented here](https://packagecontrol.io/installation).
 
 
 - Open Package Control (or hit Ctrl+Shift+P or Cmd+Shift+P)
