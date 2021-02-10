@@ -82,7 +82,7 @@ kindly go through the steps and set your user settings accordingly.
 ---
 
 ## License:
-![License](https://img.shields.io/badge/License%20-MIT-brightgreen "MIT License")
+![License](https://img.shields.io/badge/License%20-Apache%202.0-brightgreen "Apache 2.0")
 
 
 Copyright 2021 Vishwa.R
