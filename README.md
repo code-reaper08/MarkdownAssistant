@@ -75,7 +75,7 @@ kindly go through the steps and set your user settings accordingly.
 
     ~~~ "auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"auto_complete_selector": "source,text",
+	"auto_complete_selector": "text.html.markdown",
 	"auto_complete_with_fields": true,
 + Save it and Restart SublimeText.
 
