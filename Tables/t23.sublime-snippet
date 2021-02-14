@@ -5,5 +5,6 @@
 |  ${4:2,1}      |${5:2,2} | ${6:2,3} |
 ]]></content>
 <tabTrigger>mdt23</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a 2X3 table (For .md files)</description>
 </snippet>
