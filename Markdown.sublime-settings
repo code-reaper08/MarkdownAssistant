@@ -1,0 +1,6 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+    "tab_completion": true,
+    "auto_complete": true,
+    "auto_complete_selector": "text.html.markdown"
+}
