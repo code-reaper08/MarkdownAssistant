@@ -6,5 +6,6 @@
 | ${7:3,1}      |
 ]]></content>
 <tabTrigger>mdt31</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a 3X1 table(For .md files)</description>
 </snippet>
