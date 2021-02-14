@@ -3,5 +3,6 @@
 ---
 ]]></content>
 <tabTrigger>mdhl</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Inserts a horizontal line seperator(For .md files)</description>
 </snippet>
