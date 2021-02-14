@@ -3,5 +3,6 @@
 > ${1:Text here}
 ]]></content>
 <tabTrigger>mdbq</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a blockquote(For .md files)</description>
 </snippet>
