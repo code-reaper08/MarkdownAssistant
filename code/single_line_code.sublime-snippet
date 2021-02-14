@@ -3,5 +3,6 @@
 `${1:Code here}`
 ]]></content>
 <tabTrigger>mdcs</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a single line code(inline)(For .md file)</description>
 </snippet>
