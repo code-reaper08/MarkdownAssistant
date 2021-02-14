@@ -3,5 +3,6 @@
 [${1:Title}](${2:Link})
 ]]></content>
 <tabTrigger>mdlnkt</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a link with title(For .md files)</description>
 </snippet>
