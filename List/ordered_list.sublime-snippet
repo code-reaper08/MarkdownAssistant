@@ -5,5 +5,6 @@
 3. ${3:item3}
 ]]></content>
 <tabTrigger>mdol</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a ordered list(For .md files)</description>
 </snippet>
