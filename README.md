@@ -1,6 +1,17 @@
 # MarkdownAssistant
 ![version](https://img.shields.io/badge/version-1.0.0-yellow "initial release")
 
+
+			  __  __            _       _                                      _     _              _   
+			 |  \/  |          | |     | |                       /\           (_)   | |            | |  
+			 | \  / | __ _ _ __| | ____| | _____      ___ __    /  \   ___ ___ _ ___| |_ __ _ _ __ | |_ 
+			 | |\/| |/ _` | '__| |/ / _` |/ _ \ \ /\ / / '_ \  / /\ \ / __/ __| / __| __/ _` | '_ \| __|
+			 | |  | | (_| | |  |   < (_| | (_) \ V  V /| | | |/ ____ \\__ \__ \ \__ \ || (_| | | | | |_ 
+			 |_|  |_|\__,_|_|  |_|\_\__,_|\___/ \_/\_/ |_| |_/_/    \_\___/___/_|___/\__\__,_|_| |_|\__|
+                                                                                            
+                                                                                            
+
+
 ## Description:
 
 + MarkdownAssistant is a simple and powerful snippet provider,which provides handy snippets for easy creation of Markdown (.md) files.
@@ -64,20 +75,6 @@ To find out where the Packages directory is, you can go to _Preferences_ and _Br
 | mdciu      | Creates a checklist item(Unchecked)|
 | mdhl     | Creates a Horizontal line seperator|
 | mdmention      | Creates an mention|
-
-## Important ![important](https://img.shields.io/badge/-Important-red "read this")
-
-MarkdownAssistant needs some settings changes to assist you flawlessly.
-kindly go through the steps and set your user settings accordingly.
-
-+ Go to `preferences -> settings`
-+ In `Preferences.sublime-settings(User)` add these lines,
-
-    ~~~ "auto_complete": true,
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_selector": "text.html.markdown",
-	"auto_complete_with_fields": true,
-+ Save it and Restart SublimeText.
 
 ---
 
