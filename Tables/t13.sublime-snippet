@@ -4,5 +4,6 @@
 | ------------- |:-------------:| -----:|
 ]]></content>
 <tabTrigger>mdt13</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a 1X3 table(For .md files)</description>
 </snippet>
