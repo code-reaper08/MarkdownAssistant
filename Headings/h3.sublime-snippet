@@ -3,5 +3,6 @@
 ### ${1:Text here}
 ]]></content>
 <tabTrigger>mdh3</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a heading 3(For .md files)</description>
 </snippet>
