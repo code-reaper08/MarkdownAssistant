@@ -3,5 +3,6 @@
 **${1:BOLD text here}**
 ]]></content>
 <tabTrigger>mdb</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a bold text(For .md files)</description>
 </snippet>
