@@ -3,5 +3,6 @@
 - [x] ${1:Checked item}
 ]]></content>
 <tabTrigger>mdcic</tabTrigger>
+<scope>text.html.markdown</scope>
 <description>Creates a Checked item(GITHUB specific)(For .md files)</description>
 </snippet>
