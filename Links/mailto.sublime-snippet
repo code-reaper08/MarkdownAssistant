@@ -3,6 +3,6 @@
 [${1:Clickable Display Text}](mailto:${2:email address here}?subject=[${3:subject here}]%20Source%20Han%20Sans)
 ]]></content>
 <tabTrigger>mdmailto</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Creates a mailto link for easy mailing scenarios(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown mailto</description>
 </snippet>

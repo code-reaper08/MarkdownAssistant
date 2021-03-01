@@ -4,7 +4,7 @@
 ]]></content>
 
 <tabTrigger>mdh1</tabTrigger>
-<scope>text.html.markdown</scope>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
 
-    <description>Creates a heading 1(For .md files)</description>
+    <description>Markdown Heading 1</description>
 </snippet>

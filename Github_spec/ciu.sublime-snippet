@@ -3,6 +3,6 @@
 - [ ] ${1:Unchecked item}
 ]]></content>
 <tabTrigger>mdciu</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Create a Unchecked item(GITHUB specific)(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown Unchecked item</description>
 </snippet>

@@ -3,6 +3,6 @@
 @${1:Username}
 ]]></content>
 <tabTrigger>mdmention</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Creates a mention(GITHUB Specific)(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown Mention</description>
 </snippet>

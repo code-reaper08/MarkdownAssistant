@@ -3,6 +3,6 @@
 _${1:italic text}_
 ]]></content>
 <tabTrigger>mdit</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Creates a italic text(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown Italic</description>
 </snippet>

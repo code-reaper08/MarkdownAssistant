@@ -5,6 +5,6 @@
 + ${3:item3}
 ]]></content>
 <tabTrigger>mdul</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Creates a unordered list(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown Unordered List</description>
 </snippet>

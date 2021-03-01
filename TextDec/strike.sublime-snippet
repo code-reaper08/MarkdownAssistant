@@ -3,6 +3,6 @@
 ~~${1:Text here}~~
 ]]></content>
 <tabTrigger>mdstrike</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Creates a strikethrough text(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown Strikethrough</description>
 </snippet>

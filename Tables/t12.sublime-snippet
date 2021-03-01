@@ -4,6 +4,6 @@
 | ------------- |:-------------:|
 ]]></content>
 <tabTrigger>mdt12</tabTrigger>
-<scope>text.html.markdown</scope>
-<description>Creates a 1X2 table(For .md files)</description>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown Table 1X2</description>
 </snippet>
