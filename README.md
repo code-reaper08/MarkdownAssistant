@@ -75,7 +75,7 @@ To find out where the Packages directory is, you can go to _Preferences_ and _Br
 | mdt31      | Creates a 3X1 table|
 | mdt32      | Creates a 3X2 table|
 | mdt33      | Creates a 3X3 table|
-| mdt34      | Creates a 3X3 table|
+| mdt34      | Creates a 3X4 table|
 | mdcic      | Creates a checklist item(checked)|
 | mdciu      | Creates a checklist item(Unchecked)|
 | mdhl     | Creates a Horizontal line seperator|
