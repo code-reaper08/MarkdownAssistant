@@ -83,6 +83,10 @@ To find out where the Packages directory is, you can go to _Preferences_ and _Br
 
 ---
 
+### **Version info**
+
+For version info like what's updated and what's fixed head over to the [**changelog**](https://github.com/code-reaper08/MarkdownAssistant/blob/main/CHANGELOG.md).
+
 ## License:
 
 Copyright 2021 Vishwa.R
