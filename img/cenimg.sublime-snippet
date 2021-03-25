@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<div align="center">
+
+![${1:alt text}](${2:Image link} "${3:Hover Text}")
+
+</div>
+]]></content>
+<tabTrigger>cenimg</tabTrigger>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown centered Image</description>
+</snippet>

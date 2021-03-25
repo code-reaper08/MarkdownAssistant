@@ -58,18 +58,24 @@ To find out where the Packages directory is, you can go to _Preferences_ and _Br
 | mdcs      | Creates a single line code|
 | mdcb      | Creates a code block|
 | mdimg     | Creates a image with hover text|
+| cenimg     | centered Image with hover text|
+| limg     | Left aligned Image with hover text|
+| rimg     | Right aligned Image with hover text|
 | mdlnkt      | Creates a link with title|
 | mdmailto      | Creates a mailto link for easy mailing |
 | mdol      | Creates an ordered list|
 | mdul      | Creates an unordered list|
 | mdt12      | Creates a 1X2 table|
 | mdt13      | Creates a 1X3 table|
+| mdt14      | Creates a 1X4 table|
 | mdt21      | Creates a 2X1 table|
 | mdt22      | Creates a 2X2 table|
 | mdt23      | Creates a 2X3 table|
+| mdt24      | Creates a 2X4 table|
 | mdt31      | Creates a 3X1 table|
 | mdt32      | Creates a 3X2 table|
 | mdt33      | Creates a 3X3 table|
+| mdt34      | Creates a 3X3 table|
 | mdcic      | Creates a checklist item(checked)|
 | mdciu      | Creates a checklist item(Unchecked)|
 | mdhl     | Creates a Horizontal line seperator|

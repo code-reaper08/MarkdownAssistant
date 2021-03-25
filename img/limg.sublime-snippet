@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<div align="left">
+
+![${1:alt text}](${2:Image link} "${3:Hover Text}")
+
+</div>
+]]></content>
+<tabTrigger>limg</tabTrigger>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown left aligned Image</description>
+</snippet>
