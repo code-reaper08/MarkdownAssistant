@@ -1,6 +1,17 @@
 # MarkdownAssistant
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/code-reaper08/MarkdownAssistant?style=for-the-badge) [![GitHub issues](https://img.shields.io/github/issues/code-reaper08/MarkdownAssistant?style=for-the-badge)](https://github.com/code-reaper08/MarkdownAssistant/issues) [![GitHub stars](https://img.shields.io/github/stars/code-reaper08/MarkdownAssistant?style=for-the-badge)](https://github.com/code-reaper08/MarkdownAssistant/stargazers) ![GitHub last commit](https://img.shields.io/github/last-commit/code-reaper08/MarkdownAssistant?style=for-the-badge) ![Lines of code](https://img.shields.io/tokei/lines/github/code-reaper08/MarkdownAssistant?style=for-the-badge) ![License](https://img.shields.io/badge/License%20-Apache%202.0-yellow?style=for-the-badge) ![Package Control](https://img.shields.io/packagecontrol/dt/MarkdownAssistant?style=for-the-badge)
 
+<br>
+
+
+<div align="center">
+
+# Thank you people for **500** downloads.✨🎉💖
+
+</div>
+
+
+
 			  __  __            _       _                                      _     _              _   
 			 |  \/  |          | |     | |                       /\           (_)   | |            | |  
 			 | \  / | __ _ _ __| | ____| | _____      ___ __    /  \   ___ ___ _ ___| |_ __ _ _ __ | |_ 
