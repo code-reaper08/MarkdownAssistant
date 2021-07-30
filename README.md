@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Thank you people for **940+** downloads.✨🎉💖
+# Thank you people for **950+** downloads.✨🎉💖
 
 </div>
 
