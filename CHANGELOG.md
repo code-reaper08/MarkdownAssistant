@@ -52,4 +52,25 @@ _**note :** Thank you folks for making it **trending** and for getting me up by 
     + t24 --> Which gives a 2x4 table.
     + t34 --> Which gives a 3x4 table.
 
-   
+-------
+-------
+-------
+
+# v 1.0.3
+
+**Date** : Aug 24 2021
+
+_**note :** Thank you folks for making it **trending** and for getting me up by **1.1K** download (at the time of writing this.)._
+
+<div align="center">
+
+## ...................UPDATED........................
+
+</div>
+
+**Fixes** : none
+
+**Features** : This time, I've introduced a minor update with GitHub specific Markdown.
+
+1. **GitHub Specific Markdown**:
+    + mddd --> Which gives a Dropdown.
