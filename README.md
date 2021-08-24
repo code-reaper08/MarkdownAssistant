@@ -6,7 +6,8 @@
 
 <div align="center">
 
-<strong> Thank you people for **1K** downloads. Will come up with an update soon.✨🎉💖 </strong>
+<strong> Minor Update rolled out. Check out v1.0.3 and [CHANGELOG.md](https://github.com/code-reaper08/MarkdownAssistant/blob/main/CHANGELOG.md) <br>
+<strong> Thank you people for **1.1K** downloads.</strong>
 
 </div>
 
@@ -91,6 +92,7 @@ To find out where the Packages directory is, you can go to _Preferences_ and _Br
 | mdciu      | Creates a checklist item(Unchecked)|
 | mdhl     | Creates a Horizontal line seperator|
 | mdmention      | Creates an mention|
+| mddd   | Creates an Dropdown|
 
 ---
 
