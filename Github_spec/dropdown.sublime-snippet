@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<details close>
+  <summary>${1: summary here}</summary>
+    ${2: Content goes here}
+  </details>
+]]></content>
+<tabTrigger>mddd</tabTrigger>
+<scope>text.html.markdown - meta.code-fence - markup.raw</scope>
+<description>Markdown DropDown</description>
+</snippet>
