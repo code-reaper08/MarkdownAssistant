@@ -7,7 +7,7 @@
 <div align="center">
 
 <strong> Minor Update rolled out. Check out v1.0.3 and [CHANGELOG.md](https://github.com/code-reaper08/MarkdownAssistant/blob/main/CHANGELOG.md) <br>
-<strong> Thank you people for **1.1K** downloads.</strong>
+<strong> Thank you people for **1.2K** downloads.</strong>
 
 </div>
 
